@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import subprocess
 from colorama import init, Fore
 
